@@ -1,0 +1,283 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/hoopsnake",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "hoopsnake",
+    "name": "Hoopsnake",
+    "aliases": [
+      {
+        "name": "Hoop Snake",
+        "meaning": "Two-word spelling variant"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter / American Folklore",
+    "tags": [
+      "fearsome-critter",
+      "american-folklore",
+      "snake",
+      "frontier-folklore",
+      "debunked",
+      "tall-tale"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "A legendary snake from American folklore that grabs its tail in its mouth and rolls like a wheel to chase prey at high speed, possessing a venomous tail stinger so deadly it can kill trees.",
+      "full": "The Hoopsnake is a creature from American frontier and lumberjack folklore, described as a snake that takes its tail in its mouth and rolls like a wheel or hoop to pursue prey at great speed. According to the tales, it possesses a venomous stinger on its tail so deadly that when the snake stabs a tree while rolling, the tree dies instantly. The creature was said to roll downhill at tremendous velocity, making it nearly impossible to outrun. While primarily associated with fearsome critters, the hoopsnake legend was more widespread than typical lumberjack tales, appearing throughout American folklore from the 1800s through early 1900s. It has been thoroughly debunked - no snake species can physically perform this rolling behavior."
+    },
+    "etymology": {
+      "origin": "American frontier folklore, 1800s",
+      "meaning": "Named for its characteristic rolling behavior in a hoop or wheel formation",
+      "first_use": "Early 19th century"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter / American Folklore",
+      "subtype": "Impossible Animal",
+      "variant": "Widespread American Tall Tale"
+    },
+    "related_phenomena": [
+      {
+        "id": "hidebehind",
+        "name": "Hidebehind",
+        "relationship": "fellow_fearsome_critter",
+        "description": "Fellow fearsome critter from American folklore"
+      },
+      {
+        "id": "fur-bearing-trout",
+        "name": "Fur-Bearing Trout",
+        "relationship": "fellow_fearsome_critter",
+        "description": "Another American tall tale creature"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "features": [
+        {
+          "feature": "Appearance",
+          "description": "Resembles an ordinary snake in most respects",
+          "frequency": "always"
+        },
+        {
+          "feature": "Tail stinger",
+          "description": "Venomous stinger on tail instead of fangs in mouth",
+          "frequency": "always"
+        },
+        {
+          "feature": "Size",
+          "description": "Varies by account, typically described as 3-5 feet long",
+          "frequency": "common"
+        },
+        {
+          "feature": "Coloration",
+          "description": "Various, often described as dark-colored",
+          "frequency": "variable"
+        }
+      ],
+      "morphology": "Snake-like body with the distinguishing feature of a venomous stinger on the tail"
+    },
+    "abilities": [
+      {
+        "ability": "Hoop rolling",
+        "description": "Grabs tail in mouth and rolls like a wheel at high speed",
+        "frequency": "signature_behavior",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "High-speed pursuit",
+        "description": "Can roll downhill at tremendous velocity to chase prey",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Deadly venom",
+        "description": "Tail stinger venom so potent it kills trees instantly upon contact",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Directional control",
+        "description": "Can steer while rolling to pursue fleeing victims",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "aggressive",
+      "social_structure": "solitary",
+      "habitat_preference": [
+        "hills and slopes",
+        "forests",
+        "rural areas"
+      ],
+      "diet": "Carnivorous (implied)",
+      "patterns": [
+        "Takes tail in mouth to form hoop",
+        "Rolls downhill at high speed",
+        "Stabs prey (or trees) with tail stinger",
+        "Cannot roll uphill"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "American folklore throughout the United States, not limited to lumberjack regions. Particularly common in frontier folklore from 1800s-1900s.",
+      "continents": ["North America"],
+      "countries": ["United States"],
+      "regions": [
+        "Throughout United States",
+        "Particularly Midwest",
+        "Southern states",
+        "Frontier regions"
+      ]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "Early 1800s",
+        "circa": true,
+        "source": "American frontier oral tradition"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1800s-1900s",
+          "description": "Widespread belief during American frontier expansion"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American frontier folklore, more widespread than typical fearsome critters. Not limited to lumberjack culture but part of general American tall tale tradition.",
+      "earliest_accounts": "Early 19th century oral traditions",
+      "folklore_connections": "Part of American frontier folklore, related to but distinct from purely lumberjack fearsome critters"
+    },
+    "timeline": [
+      {
+        "date": "1800s",
+        "event": "Hoopsnake stories widespread in American folklore",
+        "significance": "Belief in the creature was genuinely held by some",
+        "source": "Oral tradition and written accounts"
+      },
+      {
+        "date": "Late 1800s-Early 1900s",
+        "event": "Scientific debunking begins",
+        "significance": "Natural historians explain physical impossibility",
+        "source": "Scientific literature"
+      },
+      {
+        "date": "1900s",
+        "event": "Transitions to recognized tall tale",
+        "significance": "Becomes known as folklore rather than genuine belief",
+        "source": "Folklore collections"
+      }
+    ],
+    "modern_era": "The hoopsnake is recognized as a classic American tall tale and example of frontier folklore. It occasionally appears in popular culture as a humorous reference to impossible creatures."
+  },
+
+  "debunking": {
+    "physical_impossibility": "No snake species can perform the described rolling behavior. Snakes lack the skeletal structure, musculature, and body mechanics required to:
+    1. Maintain a rigid hoop shape while in motion
+    2. Propel themselves in a rolling motion
+    3. Control direction while rolling
+    4. Generate sufficient speed",
+    "biological_impossibility": "Snakes do not have tail stingers. All venomous snakes have fangs in their mouths, not stingers on their tails.",
+    "status": "Completely debunked - total folklore with no basis in reality"
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "American frontier tall tales",
+        "Regional folklore throughout US",
+        "Fearsome critters subset"
+      ],
+      "stories": [
+        "Tales of hoopsnakes chasing farmers",
+        "Stories of dead trees killed by hoopsnake stingers",
+        "Accounts of narrow escapes by jumping aside at the last moment"
+      ],
+      "beliefs": "Mixture of genuine belief (1800s) and recognized tall tale (1900s onward)"
+    },
+    "purpose": {
+      "entertainment": "Frontier storytelling tradition",
+      "cautionary": "Warning about dangerous wildlife (though fictional)",
+      "cultural": "Part of American frontier identity and humor"
+    },
+    "popular_culture": {
+      "literature": [
+        "American folklore collections",
+        "Fearsome critter compilations",
+        "Regional folklore books"
+      ],
+      "other": [
+        "Example of debunked folklore in science education",
+        "Reference point for impossible creatures"
+      ]
+    }
+  },
+
+  "theories": {
+    "folklore_analysis": [
+      {
+        "name": "Misidentification Origin",
+        "description": "May have originated from observations of snakes in other behaviors (coiling, sidewinding) misunderstood or exaggerated",
+        "evidence_cited": ["Various snake defensive and locomotion behaviors"]
+      },
+      {
+        "name": "Pure Invention",
+        "description": "Entirely invented as a tall tale with no basis in actual observations",
+        "evidence_cited": ["Complete physical impossibility", "No consistent sighting accounts"]
+      },
+      {
+        "name": "Frontier Humor",
+        "description": "Part of American tradition of tall tales and 'stretchers' told for entertainment",
+        "evidence_cited": ["Similar to Paul Bunyan stories and other frontier exaggerations"]
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": ["Henry H. Tryon"],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    }
+  ]
+}
